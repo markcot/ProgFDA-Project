@@ -6,11 +6,11 @@
 - **Dates** November 2019 to December 2019
 
 #### Introduction
-This document is my marked down file for the GMIT module 'Programming for Data Analysis' project. The project includes a review of public park visits, the factors that affect the number of visitors and various methods of visit data collection and simulation. The project is undertaken using a jupyter notebook (https://jupyter.org/), which is included in this repository as 'public-park-visits.ipynb'. The jupyter notebook uses the Python programming language (https://www.python.org/) to simulate a sample of basis park visitation variables spread out over a year resulting in a sample of simulated daily park visit numbers.
+This document is my marked down file for the GMIT module 'Programming for Data Analysis' project. The project includes a review of public park visits, the factors that affect the number of visitors and various methods of visit data collection and simulation. The project is undertaken using a jupyter notebook (https://jupyter.org/), which is included in this repository as 'public-park-visits.ipynb'. The jupyter notebook uses the Python programming language (https://www.python.org/) to simulate a sample of basic park visitation variables spread out over a year resulting in a sample of simulated daily park visit numbers.
 
 The jupyter notebook can be viewed on the jupyter notebook viewer https://nbviewer.jupyter.org/github/markcot/ProgFDA-Project/blob/master/public-park-visits.ipynb?flush_cache=true.
 
-The GitHub repository can be cloned to a local hard drive and run locally using jupyter notebook from the command line or terminal. When the notebook is first opened, the user should start by running all of code in the notebook. Select from the drop down option 'Restart & Run All' under the menu heading 'Kernel'.
+The GitHub repository can be cloned to a local hard drive and run locally using jupyter notebook from the command line or terminal. When the notebook is first opened, the user should start by running all of code in the notebook. Select from the jupyter menu heading 'Kernel', the drop down option 'Restart & Run All'.
 
 #### Project Plan
 
@@ -18,5 +18,5 @@ The GitHub repository can be cloned to a local hard drive and run locally using 
 - Identify variables that affect park visits
 - Review methods of measuring and estimating public park visit
 - Investigate distribution of proposed project variables
-- Simulate a sample of data points for the selected project variables
-- Present basis review of simulated data set
+- Simulate sample data points for the selected project variables
+- Present basic review of simulated data set
